@@ -1,4 +1,4 @@
-# aryan rai 
+# Aryan rai 
 # 590015527
 # Expense-calculator
 ![](I1.png)
